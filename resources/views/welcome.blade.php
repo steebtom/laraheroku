@@ -87,7 +87,7 @@
                 <div class="links">
                     <!-- <a href="https://laravel.com/docs">Docs</a> -->
                     <a href="https://www.steebthomas.com">Welcome</a>
-                    <a href="https://www.steebthomas.com">Projects/a>
+                    <a href="https://www.steebthomas.com">Projects</a>
                     <a href="https://www.steebthomas.com">Blog</a>
                     <!-- <a href="https://nova.laravel.com">Nova</a> -->
                     <!-- <a href="https://forge.laravel.com">Forge</a> -->
