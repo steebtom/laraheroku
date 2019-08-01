@@ -81,17 +81,17 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Steeb Thomas
                 </div>
 
                 <div class="links">
                     <!-- <a href="https://laravel.com/docs">Docs</a> -->
-                    <a href="https://www.steebthomas.com">Laracasts</a>
-                    <a href="https://www.steebthomas.com">News</a>
+                    <a href="https://www.steebthomas.com">Welcome</a>
+                    <a href="https://www.steebthomas.com">Projects/a>
                     <a href="https://www.steebthomas.com">Blog</a>
                     <!-- <a href="https://nova.laravel.com">Nova</a> -->
                     <!-- <a href="https://forge.laravel.com">Forge</a> -->
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/steebtom">GitHub</a>
                 </div>
             </div>
         </div>
