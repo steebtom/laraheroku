@@ -36,8 +36,18 @@ html {
 }
 
 .passion {
-    padding: 2% 40%;
-    display: flex;
+    /* padding: 2% 40%; */
+    text-align: center;
+    padding-top: 10px;
+    display: inline-flex;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
+}
+
+.passion1 {
+    padding-right: 20px;
+}
+
+.passion2 {
+    padding-right: 20px;
 }
