@@ -18,7 +18,7 @@
         </div>
         <div class="links">
         <a href='https://github.com/steebtom'><img src='/images/gihub.png' height = "28" width = "28"/></a>
-        <a href='https://github.com/steebtom'><img src='/images/linkedin.png' height = "28" width = "28"/></a>
+        <a href='https://nz.linkedin.com/in/steeb-thomas-949125185'><img src='/images/linkedin.png' height = "28" width = "28"/></a>
         <a href='https://www.instagram.com/steebthomas/'><img src='/images/instagram.png' height = "28" width = "28"/></a>
 
         </div>
