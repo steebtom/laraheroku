@@ -21,8 +21,8 @@
         <a href='https://nz.linkedin.com/in/steeb-thomas-949125185'><img src='/images/linkedin.png' height = "28" width = "28"/></a>
         <a href='https://www.instagram.com/steebthomas/'><img src='/images/instagram.png' height = "28" width = "28"/></a>
         </div>
-        <div class="hidden1">
-            Hi there, in case if you're lurkin around xD
+        <div class="hidden">
+            <div class="hidden1">Hi there, in case if you're lurkin around xD</div>
         </div>
         
     <!-- Image Courtesy: Annie Sprat -->
