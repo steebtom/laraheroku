@@ -41,7 +41,7 @@ html {
 .clhid1 {
     padding-top: 2px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    opacity: .7;
+    opacity: 0;
     font-size: .8em;
     width: 150px;
     display: inline-block;
@@ -49,7 +49,7 @@ html {
 }
 
 .clhid1:hover {
-    opacity: 0;
+    opacity: 1;
 }
 
 .passion1 {
