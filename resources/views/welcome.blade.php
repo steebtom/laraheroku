@@ -23,7 +23,7 @@
         <a href='https://www.instagram.com/steebthomas/'><img src='/images/instagram.png' height = "28" width = "28"/></a>
         </div>
         <div class="clhid">
-            <div class="clhid1">Hi there, in case if you're lurkin around xD</div>
+            <div id= "para1" class="clhid1">Hi there, in case if you're lurkin around xD</div>
         </div>
         
     <!-- Image Courtesy: Annie Sprat -->

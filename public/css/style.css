@@ -38,7 +38,7 @@ html {
     font-size: 1.05rem;
 }
 
-.clhid1 {
+/* .clhid1 {
     padding-top: 2px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     opacity: 0;
@@ -49,6 +49,20 @@ html {
 }
 
 .clhid1:hover {
+    opacity: 1;
+} */
+
+#para1 {
+    padding-top: 2px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    opacity: 0;
+    font-size: .8em;
+    width: 150px;
+    display: inline-block;
+    color: rgb(24, 95, 92);
+}
+
+#para1:hover {
     opacity: 1;
 }
 
