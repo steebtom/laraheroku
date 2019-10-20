@@ -14,16 +14,15 @@
             <div class="passion1">Web Developer</div>
             <div class="passion2">Test Engineer</div>
             <div class="passion3">QA Analyst</div>
-            <div class="passion3">Geek</div>
+            <div class="passion4">Geek</div>
         </div>
         <div class="links">
         <a href='https://github.com/steebtom'><img src='/images/gihub.png' height = "28" width = "28"/></a>
         <a href='https://nz.linkedin.com/in/steeb-thomas-949125185'><img src='/images/linkedin.png' height = "28" width = "28"/></a>
         <a href='https://www.instagram.com/steebthomas/'><img src='/images/instagram.png' height = "28" width = "28"/></a>
-
         </div>
         <div class="hidden1">
-            Hi there, in case if you're lurkin around xD !!
+            Hi there, in case if you're lurkin around xD
         </div>
         
     <!-- Image Courtesy: Annie Sprat -->

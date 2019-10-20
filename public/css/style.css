@@ -3,7 +3,7 @@ body {
     background-size: cover;
     /* background-size: cover cover; */
     background-repeat: no-repeat;
-    min-height: 100%;
+    min-height: 100vh;
     text-align: center;
 }
 
@@ -46,6 +46,10 @@ html {
     padding-right: 20px;
 }
 
+.passion3 {
+    padding-right: 20px;
+}
+
 a {
     padding-right: 10px;
 }
@@ -71,6 +75,6 @@ a {
 }
 
 .hidden1:hover {
-    visibility: visible;
+    /* visibility: visible; */
     opacity: 1;
 }
