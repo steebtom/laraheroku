@@ -58,23 +58,21 @@ a {
     padding-top: 15px;
 }
 
-.hidden {
+/* .hidden {
     padding-top: 15px;
 
-}
+} */
 
 .hidden1 {
     padding-top: 2px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    opacity: 1;
+    opacity: .25;
     font-size: .8em;
     width: 150px;
     display: inline-block;
     color: rgb(24, 95, 92);
-    /* visibility: hidden; */
 }
 
 .hidden1:hover {
-    /* visibility: visible; */
     opacity: 0;
 }
