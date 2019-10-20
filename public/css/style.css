@@ -38,17 +38,17 @@ html {
     font-size: 1.05rem;
 }
 
-.hidden1 {
+.clhid1 {
     padding-top: 2px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    opacity: .25;
+    opacity: .7;
     font-size: .8em;
     width: 150px;
     display: inline-block;
     color: rgb(24, 95, 92);
 }
 
-.hidden1:hover {
+.clhid1:hover {
     opacity: 0;
 }
 
@@ -72,7 +72,7 @@ a {
     padding-top: 15px;
 }
 
-/* .hidden {
+.clhid {
     padding-top: 15px;
 
-} */
+}
