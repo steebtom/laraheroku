@@ -1,9 +1,8 @@
 body {
     background-image: url("/images/bg1.jpg");
     background-size: cover;
-    background-size: cover cover;
+    /* background-size: cover cover; */
     background-repeat: no-repeat;
-    /* background-size: 100%; */
     min-height: 100%;
     text-align: center;
 }
@@ -53,4 +52,25 @@ a {
 
 .links {
     padding-top: 15px;
+}
+
+.hidden {
+    padding-top: 15px;
+
+}
+
+.hidden1 {
+    padding-top: 2px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    opacity: 0;
+    font-size: .8em;
+    width: 150px;
+    display: inline-block;
+    color: rgb(24, 95, 92);
+    /* visibility: hidden; */
+}
+
+.hidden1:hover {
+    visibility: visible;
+    opacity: 1;
 }
