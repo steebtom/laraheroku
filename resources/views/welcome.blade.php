@@ -11,9 +11,9 @@
 <body>
         <div class="name">Steeb Thomas</div>
         <div class="passion">
-            <div class="passion1">Web Developer</div>
-            <div class="passion2">Test Engineer</div>
-            <div class="passion3">QA Analyst</div>
+            <div class="passion1">Test Engineer</div>
+            <div class="passion2">QA Analyst</div>
+            <div class="passion3">Web Developer</div>
             <div class="passion4">Geek</div>
         </div>
         
